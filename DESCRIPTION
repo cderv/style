@@ -11,3 +11,5 @@ Imports:
     bookdown,
     rmarkdown,
     png
+Remotes:
+    cderv/bookdown@travis-fold
