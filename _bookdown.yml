@@ -1,7 +1,7 @@
 output_dir: "docs"
 
 delete_merged_file: true
-
+before_chapter_script: ["before_chapter.R"]
 rmd_files: [
   "index.Rmd",
   
