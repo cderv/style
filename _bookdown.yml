@@ -1,5 +1,5 @@
 output_dir: "docs"
-new_session: yes
+
 delete_merged_file: true
 before_chapter_script: ["before_chapter.R"]
 rmd_files: [
